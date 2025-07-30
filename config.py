@@ -1,0 +1,5 @@
+BASE_URL = "http://185.244.219.162/phpmyadmin"
+USERNAME = "test"
+PASSWORD = "JHFBdsyf2eg8*"
+DEFAULT_DB = "testDB"
+DEFAULT_TABLE = "users"
